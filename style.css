@@ -1,0 +1,9 @@
+header {
+  background-image: url("/assets/bg.png");
+  /* background-size: 100% auto; */
+  background-repeat: repeat-x;
+}
+
+h1 {
+    display: inline-block;
+}
